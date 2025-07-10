@@ -10,6 +10,7 @@
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 </div>
 
+
 ## 🚀 Overview
 
 DevHire is a modern, AI-powered job board specifically designed for developers. It revolutionizes the job search experience by providing intelligent matching, eliminating whiteboard interviews, ensuring salary transparency, and connecting developers with companies that truly value engineering excellence.
@@ -136,6 +137,7 @@ The app works perfectly with mock data, but you can enhance it with real APIs:
 2. Get your API key
 3. Add to `.env`
 
+
 #### RemoteOK API
 - No configuration needed - works out of the box!
 
@@ -233,6 +235,7 @@ Contributions are welcome! Here's how you can help:
    ```
 6. **Open a Pull Request**
 
+7. 
 ### Development Guidelines
 - Follow TypeScript best practices
 - Use Tailwind CSS for styling
