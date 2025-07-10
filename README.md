@@ -154,12 +154,14 @@ The app works perfectly with mock data, but you can enhance it with real APIs:
 - Dark/Light theme toggle
 - Micro-interactions and hover effects
 
+
 ### 🔍 Advanced Search & Filtering
 - Real-time search across multiple job sources
 - Filter by location, remote work, tech stack
 - Salary range filtering
 - Job type and experience level filters
 - Special filters (no whiteboard, diversity-friendly)
+
 
 ### 📊 Comprehensive Job Data
 - Detailed job descriptions
