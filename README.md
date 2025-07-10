@@ -5,7 +5,6 @@
   
   **Find Your Dream Developer Job with AI Precision**
   
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-devhiree.netlify.app-blue?style=for-the-badge)](https://devhiree.netlify.app)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/lisan-5/devhire)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 </div>
