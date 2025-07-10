@@ -24,7 +24,6 @@ DevHire is a modern, AI-powered job board specifically designed for developers. 
 - **📱 Responsive Design** - Perfect experience on all devices
 - **🌙 Dark/Light Mode** - Comfortable viewing in any environment
 
-
 **🌐 [Visit DevHire](https://devhiree.netlify.app)**
 
 Experience the platform live with:
@@ -55,6 +54,7 @@ Experience the platform live with:
 - **Netlify** - Automated deployment and hosting
 - **ESLint** - Code quality and consistency
 - **PostCSS** - CSS processing and optimization
+
 
 ## 🏗️ Architecture
 
